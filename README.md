@@ -1,7 +1,7 @@
 ### Hi there
 
 - 🔭 I'm working on a silent startup.
-- 🌱 That's all my NDA allows me to discuess
+- 🌱 That's all my NDA allows me to discuss
 - 👯 I’m looking to collaborate on study/researching state-of-the-art tools, techniques, tactics in binary analysis and reverse engineering.
 - 📫 I am not on any social media; I cannot be reach easily (except for egberts@github.net).
 
